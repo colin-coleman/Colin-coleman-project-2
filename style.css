@@ -27,7 +27,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 8rem;
+  height: 6rem;
   width: auto;
   background-color: black;
   padding: 0 3rem;
@@ -56,7 +56,7 @@ a:hover {
 }
 
 h2 {
-  font-family: juro, sans-serif;
+  font-family: Jura, sans-serif;
   font-weight: bold;
   font-size: 2.5rem;
 }
