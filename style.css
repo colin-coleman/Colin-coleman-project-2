@@ -46,13 +46,14 @@ a {
 
 a:hover {
   text-decoration: underline;
+  color:#DF0024 ;
 }
 
 .content {
  display: grid;
  grid-template: repeat(7, 25%) / repeat(2, 50%);
  gap: 4rem 0;
- padding-bottom: 40rem;
+ padding-bottom: 180rem;
 }
 
 h2 {
@@ -112,4 +113,26 @@ p {
   background-size: cover;
   background-position: center;
   border-radius: 100px 0 0 100px;
+}
+
+.ratchet , .lara , .sly , .mark , .grave , .hotsuma , .dirk  {
+     padding: 2rem 4rem;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+  align-items: center;
+  padding: 0 5rem;
+  height: 20rem;
+  background-color: black;
+}
+
+footer a {
+  color: #2e6db4
+}
+
+footer a:hover {
+  color:#DF0024 ;
 }
