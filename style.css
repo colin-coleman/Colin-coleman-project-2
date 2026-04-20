@@ -65,3 +65,51 @@ p {
   padding-top: 15px
 }
 
+.ratchetimg {
+  background-image: url("https://m.media-amazon.com/images/M/MV5BNDBkZDBkMzYtYmQ3Zi00ZTQ3LTk1NzAtMWExYzkyZTFmNjg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 100px 0 0 100px;
+}
+
+.laraimg {
+  background-image: url("https://i.redd.it/8otvlue8njf51.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 0 100px 100px 0;
+}
+
+.markimg {
+  background-image: url("https://i.redd.it/hold-up-was-this-the-same-person-who-played-mark-hammond-in-v0-9ubmhkt4x1rf1.jpg?width=360&format=pjpg&auto=webp&s=b0a2ee7dfe1e233e9953fffa922c273f2db79a17");
+  background-size: cover;
+  background-position: center;
+  border-radius: 100px 0 0 100px;
+}
+
+.slyimg {
+  background-image: url("https://cdnb.artstation.com/p/assets/images/images/031/846/269/large/john-hayes-sly-europegamecoverscaled.jpg?1604766240");
+  background-size: cover;
+  background-position: center;
+  border-radius: 0 100px 100px 0;
+}
+
+.dirkimg {
+  background-image: url("https://i.pinimg.com/736x/ea/17/16/ea1716546137ff546e0c83451a1de35a.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 100px 0 0 100px;
+}
+
+.hotsumaimg {
+  background-image: url("https://i.pinimg.com/736x/88/93/d8/8893d8c099cacbc9664deec511c5fa07.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 0 100px 100px 0;
+}
+
+.graveimg {
+  background-image: url("https://m.media-amazon.com/images/M/MV5BMzQyNGY3ZWYtM2YyMC00OTM0LThhZjctMDJkZTJmZjBhYTc2XkEyXkFqcGc@._V1_.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 100px 0 0 100px;
+}
