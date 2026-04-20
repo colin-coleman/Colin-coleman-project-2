@@ -49,6 +49,11 @@ a:hover {
   color:#DF0024 ;
 }
 
+.playstationlogo {
+  height: 6rem;
+  width: auto;
+}
+
 .content {
  display: grid;
  grid-template: repeat(7, 25%) / repeat(2, 50%);
