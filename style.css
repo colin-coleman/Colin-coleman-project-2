@@ -22,3 +22,25 @@ html {
   font-weight: <weight>;
   font-style: normal;
 }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10rem;
+  width: auto;
+  background-color: black;
+  padding: 0 3rem;
+  font-family: jura, sans-serif;
+  font-size: 1.25rem;
+}
+
+a {
+  color: #2e6db4;
+  text-decoration: none;
+  padding-left: 45px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
