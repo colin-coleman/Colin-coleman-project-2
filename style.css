@@ -7,12 +7,18 @@ html {
   color: #222;
   line-height: 1.4;
   font-size: 16pt;
-  font-family: "Michroma", sans-serif;
+  font-family: Michroma, sans-serif;
 }
 /* Font */
 .michroma-regular {
   font-family: "Michroma", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
+} 
 
+.jura-<uniquifier> {
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
