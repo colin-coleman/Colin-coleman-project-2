@@ -220,9 +220,85 @@ footer a:hover {
     background-size: 100%;
   }
     
-     .content {
+  .content {
     display: grid;
     grid-template: repeat(14, 44em) / repeat(1, 100%);
     padding-bottom: 4rem;
   }
+  
+  .ratchetimg {
+    order: 1;
+    background-size: 150%;
+    border-radius: 200px 0 0 200px;
+    }
 
+  .ratchet {
+     order: 2;
+     text-align: left;
+    }
+    
+  .laraimg {
+    order: 3;
+    background-size: 150%;
+    border-radius: 200px 0 0 200px;
+    }
+    
+   .lara{
+    order: 4;
+    text-align: left;
+    }
+    
+   .markimg {
+    order: 5;
+    background-size: 150%;
+    border-radius: 200px 0 0 200px;
+    }
+    
+  .mark{
+    order: 6;
+    text-align: left;
+    }
+    
+   .slyimg {
+    order: 7;
+    background-size: 150%;
+    border-radius: 200px 0 0 200px;
+    }
+    
+   .sly{
+    order: 8;
+    text-align: left;
+    }
+    
+  .dirkimg {
+    order: 9;
+    background-size: 150%;
+    border-radius: 200px 0 0 200px;
+    }
+    
+   .dirk{
+    order: 10;
+    text-align: left;
+    }
+    
+   .hotsumaimg {
+    order: 11;
+    background-size: 150%;
+    border-radius: 200px 0 0 200px;
+    }
+    
+ .hotsuma{
+    order: 12;
+    text-align: left;
+    }  
+    
+ .graveimg {
+    order: 13;
+    background-size: 150%;
+    border-radius: 200px 0 0 200px;
+    }
+    
+ .grave{
+    order: 14;
+    text-align: left;
+    }
