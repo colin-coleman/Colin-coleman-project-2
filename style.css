@@ -56,7 +56,7 @@ a:hover {
 }
 
 body {
-  min-height: 535rem;
+  min-height: 595rem;
   display: grid;
   grid-template-rows: auto 1fr auto; /* Header and Footer auto-size; main takes remainder */
   margin: 0;
@@ -82,6 +82,7 @@ body {
 
 .characterssub {
   font-size: 1.7rem;
+  border-bottom: 0 solid; 
 }
 
 .content {
@@ -95,16 +96,20 @@ h2 {
   font-family: Jura, sans-serif;
   font-weight: bold;
   font-size: 2.5rem;
+  border-bottom: 1px solid #2e6db4;  
 }
 
 h3 {
    font-size: 1rem;
    text-align: center;
    padding-top: 5rem;
+  padding: 100px; 
 }
 
 p {
   padding-top: 15px
+  text-align: left; 
+  padding: 1rem;
 }
 
 .ratchetimg {
