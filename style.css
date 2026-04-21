@@ -198,3 +198,31 @@ footer a:hover {
   html {
     font-size: 12px;
   }
+
+    header {
+    padding: 0 2rem;
+  }
+  
+  .directory {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.7rem;
+  }
+
+  .playstationlogo {
+    height: 4rem;
+    }
+    
+  .container {
+    height: 100vh;
+    width: auto;
+    background-size: 100%;
+  }
+    
+     .content {
+    display: grid;
+    grid-template: repeat(14, 44em) / repeat(1, 100%);
+    padding-bottom: 4rem;
+  }
+
