@@ -56,7 +56,7 @@ a:hover {
 }
 
 body {
-  min-height: 425rem;
+  min-height: 535rem;
   display: grid;
   grid-template-rows: auto 1fr auto; /* Header and Footer auto-size; main takes remainder */
   margin: 0;
@@ -100,7 +100,7 @@ h2 {
 h3 {
    font-size: 1rem;
    text-align: center;
-   padding-top: 10rem;
+   padding-top: 5rem;
 }
 
 p {
