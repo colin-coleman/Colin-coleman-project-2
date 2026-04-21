@@ -228,8 +228,8 @@ footer a:hover {
   
   .ratchetimg {
     order: 1;
-    background-size: 150%;
-    border-radius: 200px 0 0 200px;
+    background-size: cover;
+    border-radius: 50px 0 0 50px;
     }
 
   .ratchet {
@@ -239,8 +239,8 @@ footer a:hover {
     
   .laraimg {
     order: 3;
-    background-size: 150%;
-    border-radius: 200px 0 0 200px;
+    background-size: cover;
+    border-radius: 50px 0 0 50px;
     }
     
    .lara{
@@ -261,8 +261,8 @@ footer a:hover {
     
    .slyimg {
     order: 7;
-    background-size: 150%;
-    border-radius: 200px 0 0 200px;
+    background-size: cover;
+    border-radius: 50px 0 0 50px;
     }
     
    .sly{
@@ -272,8 +272,8 @@ footer a:hover {
     
   .dirkimg {
     order: 9;
-    background-size: 150%;
-    border-radius: 200px 0 0 200px;
+    background-size: cover;
+    border-radius: 50px 0 0 50px;
     }
     
    .dirk{
@@ -283,8 +283,8 @@ footer a:hover {
     
    .hotsumaimg {
     order: 11;
-    background-size: 150%;
-    border-radius: 200px 0 0 200px;
+    background-size: cover;
+    border-radius: 50px 0 0 50px;
     }
     
  .hotsuma{
@@ -294,8 +294,8 @@ footer a:hover {
     
  .graveimg {
     order: 13;
-    background-size: 150%;
-    border-radius: 200px 0 0 200px;
+    background-size: cover;
+    border-radius: 50px 0 0 50px;
     }
     
  .grave{
