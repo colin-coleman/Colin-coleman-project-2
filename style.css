@@ -32,7 +32,7 @@ header {
   width: auto;
   background-color: black;
   padding: 0 3rem;
-  font-family: jura, sans-serif;
+  font-family: Jura, sans-serif;
   font-size: 1.25rem;
    position: sticky;
   top: 0;
@@ -56,7 +56,7 @@ a:hover {
 }
 
 body {
-  min-height: 595rem;
+  min-height: 585rem;
   display: grid;
   grid-template-rows: auto 1fr auto; /* Header and Footer auto-size; main takes remainder */
   margin: 0;
@@ -73,7 +73,7 @@ body {
 .title {
   text-align: center;
   padding-top: 5rem;
-  font-family: ;
+  font-family: Jura; sans-serif;
   font-weight: 900;
   font-size: 2rem;
   text-align: center;
@@ -88,12 +88,12 @@ body {
 .content {
  display: grid;
  grid-template: repeat(7, 25%) / repeat(2, 50%);
- gap: 4rem 0;
+ gap: 2rem 0;
  padding-top: 5rem;
 }
 
 h2 {
-  font-family: Jura, sans-serif;
+  font-family: jura, sans-serif;
   font-weight: bold;
   font-size: 2.5rem;
   border-bottom: 1px solid #2e6db4;  
@@ -104,12 +104,15 @@ h3 {
    text-align: center;
    padding-top: 5rem;
   padding: 100px; 
+  font-family: Michroma, sans-serif;
 }
 
 p {
   padding-top: 15px
   text-align: left; 
   padding: 1rem;
+  font-family: Michroma, sans-serif;
+  word-spacing: .3rem;
 }
 
 .ratchetimg {
