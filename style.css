@@ -165,7 +165,7 @@ p {
 }
 
 .ratchet , .lara , .sly , .mark , .grave , .hotsuma , .dirk  {
-     padding: 2rem 4rem;
+  padding: 2rem 4rem;
 }
 
 footer {
@@ -176,6 +176,7 @@ footer {
   padding: 0 5rem;
   height: 10rem;
   background-color: black;
+  font-size: 18px;
 }
 
 footer a {
@@ -184,4 +185,11 @@ footer a {
 
 footer a:hover {
   color:#DF0024 ;
+}
+
+.sources {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  width: 100%;
 }
