@@ -215,7 +215,7 @@ footer a:hover {
     }
 
   body {
-  min-height: 100rem;
+  min-height: 200rem;
   display: grid;
   grid-template-rows: auto 1fr auto; /* Header and Footer auto-size; main takes remainder */
   margin: 0;
@@ -311,9 +311,9 @@ footer a:hover {
     }
 
 footer {
-    font-size: 18px;
+    font-size: .7rem;
     padding: 3rem ;
-    height: 15rem;
+    height: 20rem;
   }
   
 .sources {
