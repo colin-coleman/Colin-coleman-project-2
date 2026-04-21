@@ -193,3 +193,8 @@ footer a:hover {
   text-align: right;
   width: 100%;
 }
+
+@media only screen and (max-width: 480px) {
+  html {
+    font-size: 12px;
+  }
