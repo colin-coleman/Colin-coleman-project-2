@@ -56,7 +56,7 @@ a:hover {
 }
 
 body {
-  min-height: 480rem;
+  min-height: 490rem;
   display: grid;
   grid-template-rows: auto 1fr auto; /* Header and Footer auto-size; main takes remainder */
   margin: 0;
@@ -175,7 +175,7 @@ footer {
   align-items: center;
   padding: 0 5rem;
   line-height: 2;
-  height: 15rem;
+  height: 20rem;
   background-color: black;
   font-size: 18px;
 }
@@ -314,12 +314,13 @@ footer a:hover {
 footer {
     font-size: .7rem;
     padding: 3rem ;
-    height: 15rem;
+    height: 18rem;
   }
   
 .sources {
     text-align: right;
     width: 100%;
+    font-size: .5rem;
   }
 
 .contactinfo {
