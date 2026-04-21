@@ -63,7 +63,7 @@ body {
 }
 
 .container {
-  height: 40rem;
+  height: 35rem;
   width: auto;
   background-image:  linear-gradient(rgb(10 10 10 / 80%), rgb(10 10 10 / 80%)),url("https://i.redd.it/vsprmxbhzaj81.png");
   background-size: cover;
